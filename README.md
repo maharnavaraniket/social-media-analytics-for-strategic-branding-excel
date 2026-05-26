@@ -109,12 +109,10 @@ Built an interactive dashboard using:
 ```bash
 social-media-analytics-project/
 │
-├── data/
+├── - [Dataset Folder](./data/)
 │   ├── raw_data.csv
 │   ├── cleaned_data.csv
-│
-├── notebooks/
-│   ├── social_media_analysis.ipynb
+│ 
 │
 ├── dashboard/
 │   ├── dashboard.xlsx
