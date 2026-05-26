@@ -106,25 +106,29 @@ Built an interactive dashboard using:
 
 ## Project Structure
 
-```bash
-# Social Media Analytics Project
-
-## Project Links
-
-- [Dashboard Folder](./dashboard/)
-
-- [Images Folder](./images/)
-
-- [Logs Folder](./logs/)
-
-- [README File](./README.md)
-
-- [Requirements File](./requirements.txt)
-
-## Project Links
-
--- [Dataset Folder](./data/)
-
+social-media-analytics-project/
+│
+├── data/
+│   ├── raw_data.csv
+│   ├── cleaned_data.csv
+│
+├── dashboard/
+│   ├── dashboard.xlsx
+│   ├── dashboard_screenshot.png
+│
+├── images/
+│   ├── engagement_trend.png
+│   ├── follower_growth.png
+│   ├── top_hashtags.png
+│
+├── logs/
+│   ├── project_notes.txt
+│   ├── cleaning_log.txt
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
 ## Business Impact
 This project helps businesses understand customer engagement, optimize marketing campaigns, and make data-driven decisions to improve brand performance.
 
