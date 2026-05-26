@@ -130,6 +130,12 @@ social-media-analytics-project/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+## Project Links
+
+[Dataset Folder](./data/)
+[Scripts Folder](./scripts/)
+[Dashboard Folder](./dashboard/)
 ```
 
 ---
