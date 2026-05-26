@@ -103,8 +103,11 @@ Built an interactive dashboard using:
 - Add customer segmentation and prediction analysis
 
 ---
+
+
 ## Project Structure
-'''
+
+```text
 social-media-analytics-project/
 │
 ├── data/
