@@ -109,33 +109,25 @@ Built an interactive dashboard using:
 ```bash
 social-media-analytics-project/
 │
-├── - [Dataset Folder](./data/)
+├── data/
 │   ├── raw_data.csv
 │   ├── cleaned_data.csv
-│ 
 │
 ├── dashboard/
 │   ├── dashboard.xlsx
-│   ├── dashboard_screenshot.png
 │
 ├── images/
-│   ├── engagement_trend.png
-│   ├── follower_growth.png
-│   ├── top_hashtags.png
-│
 ├── logs/
-│   ├── project_notes.txt
-│   ├── cleaning_log.txt
-│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
 
 ## Project Links
 
-[Dataset Folder](./data/)
-[Scripts Folder](./scripts/)
-[Dashboard Folder](./dashboard/)
+- [Dataset Folder](./data/)
+- [Dashboard Folder](./dashboard/)
+- [Images Folder](./images/)
+- [Logs Folder](./logs/)
 ```
 
 ---
