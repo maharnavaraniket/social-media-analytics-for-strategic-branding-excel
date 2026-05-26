@@ -1,0 +1,31 @@
+SOCIAL MEDIA ANALYTICS - DATA CLEANING STEPS
+
+1. Removed Duplicate Records
+- Checked for duplicate rows and removed repeated data entries to avoid incorrect analysis.
+
+2. Handled Missing Values
+- Identified blank or missing values and corrected or removed them based on data relevance.
+
+3. Corrected Data Formatting
+- Standardized formats for numbers, dates, text, and engagement metrics.
+
+4. Renamed and Organized Columns
+- Ensured column names were clear and structured properly for analysis.
+
+5. Cleaned Text Data
+- Removed unwanted spaces, inconsistencies, and formatting errors in text fields.
+
+6. Standardized Engagement Metrics
+- Verified likes, comments, shares, and follower data were in correct numerical format.
+
+7. Filtered Irrelevant Data
+- Removed unnecessary or incomplete records not useful for analysis.
+
+8. Validated Dataset Accuracy
+- Cross-checked cleaned data to ensure consistency and reliability before analysis.
+
+9. Prepared Data for Dashboarding
+- Structured the dataset for Pivot Tables, charts, and dashboard creation.
+
+10. Final Dataset Creation
+- Saved the cleaned and organized dataset for analysis and reporting.

@@ -1,0 +1,20 @@
+social-media-analytics-project/
+│
+├── data/
+│   ├── raw_data.xlsx
+│   ├── cleaned_data.xlsx
+│
+│
+├── images/
+│   ├── campaign  strongest follower growth.png
+│   ├── follower_growth.png
+│   ├── Compare_content_performance.png
+│   ├── visualize_Engagement VS Ad_spend_per_platform..png
+│
+├── logs/
+│   ├── project_notes.txt
+│   ├── cleaning_steps.txt
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
